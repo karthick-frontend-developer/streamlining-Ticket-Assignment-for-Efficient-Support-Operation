@@ -10,7 +10,7 @@ By leveraging ServiceNow's powerful platform features, this solution improves fi
 
 🎬 Demo
 📺 Watch Demo:
-🔗 Click to View on Google Drive : (https://drive.google.com/file/d/1DVK6_31H-F-M6_8k9Gfr3-qgeg5jaAtV/view?usp=sharing)
+🔗 [Click to View on Google Drive](https://drive.google.com/file/d/1DVK6_31H-F-M6_8k9Gfr3-qgeg5jaAtV/view?usp=sharing)
 
 👥 Team Members/team id :
 
